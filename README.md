@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Mobola-commit
+# 👋 Hi, I’m Mobola
 
 ## About Me
 - 👀 I’m interested in **Web Development** and **Customer Care**.
